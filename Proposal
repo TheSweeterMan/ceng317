@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+
+-<document page-count="2">
+
+
+-<page number="1">
+
+
+-<table data-table="1" data-page="1" data-filename="ProposalContentStudentNameRev03-2.pdf">
+
+
+-<tr>
+
+<td>Submission Date</td>
+
+<td style="text-align: right">9/12/2019</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Project Name</td>
+
+<td>L-wing Solar Panel Interactive Display</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Student Names</td>
+
+<td>Matthew Phillip,Ramin kurkeice, AhmadEL-Hajj</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Project repository</td>
+
+<td>https://github.com/publicusername/SensorEffector</td>
+
+</tr>
+
+
+-<tr>
+
+
+-<td>
+SensorsEffectors
+<br/>
+choices
+</td>
+
+<td>luminosity sensor</td>
+
+</tr>
+
+
+-<tr>
+
+<td>The database will store</td>
+
+<td>Solar energy data every 30 minutes</td>
+
+</tr>
+
+
+-<tr>
+
+
+-<td>
+The mobile device
+<br/>
+functionality will
+<br/>
+include
+</td>
+
+<td>The web app will display retrived solar energy data</td>
+
+</tr>
+
+
+-<tr>
+
+
+-<td>
+I will be collaboratingwith the following
+<br/>
+company/department
+</td>
+
+
+-<td>
+Humber College Institute of Technology & Advanced Learning Computer
+<br/>
+Engineering Technology Capstones- Kristen Medri
+</td>
+
+</tr>
+
+
+-<tr>
+
+
+-<td>
+My group in the winter
+<br/>
+semester will include
+</td>
+
+<td>ramin kurkeice, AhmadEL-Hajj</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>The problem solved by this project is we can replace a non-renewable</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>energy source with one that is renewable and has less to no impact in our</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>environment. We have to find away to collect data every 30 seconds from</td>
+
+</tr>
+
+
+-<tr>
+
+<td>50 word problem</td>
+
+<td>the 4 solar panels and send the data to mobile app and web app thats is</td>
+
+</tr>
+
+
+-<tr>
+
+<td>statement</td>
+
+<td>connected globally.</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>There are four solar panels located on the roof of the L building at</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>Humber College North Campus and these four panels are</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>consistently collecting energy from the sun. Our task is to implement</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>a system that will monitor how much solar energy is collected and the</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>total amount of energy collected every 30 minutes. This data</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>gathered from the four solar panels will then be stored in a database.</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>The data will be available for users to access through our mobile and</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>PC application. The mobile application will retrieve the data from the</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>solar panel PVs and display the information. The web application will</td>
+
+</tr>
+
+
+-<tr>
+
+<td/>
+
+<td>also display the data retrieved from the solar panel in the form of a</td>
+
+</tr>
+
+
+-<tr>
+
+<td>100 words of</td>
+
+<td>PC GUI. The users can then access this data globally from our web or</td>
+
+</tr>
+
+
+-<tr>
+
+<td>background</td>
+
+<td>mobile application.</td>
+
+</tr>
+
+
+-<tr>
+
+
+-<td>
+Current product APA
+<br/>
+citation
+</td>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+
+-<td>
+Existing research IEEE
+<br/>
+paper APA citation
+</td>
+
+<td>https://ieeexplore.ieee.org/document/7920725</td>
+
+</tr>
+
+</table>
+
+</page>
+
+
+-<page number="2">
+
+
+-<table data-table="1" data-page="2" data-filename="ProposalContentStudentNameRev03-2.pdf">
+
+
+-<tr>
+
+<td>Brief description of</td>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>planned purchases</td>
+
+<td>Rasperberry Pi, luminosity sensor</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Solution description</td>
+
+<td>using VMD method</td>
+
+</tr>
+
+</table>
+
+</page>
+
+</document>
